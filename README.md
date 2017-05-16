@@ -1,36 +1,13 @@
 # codewars-katas-clojure
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
 ## Usage
 
-FIXME: explanation
+    lein repl
+```clojure
+(use 'midje.repl)
+(autotest)
+```
 
-    $ java -jar codewars-katas-clojure-0.1.0-standalone.jar [args]
+## Even or Odd Kata
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
