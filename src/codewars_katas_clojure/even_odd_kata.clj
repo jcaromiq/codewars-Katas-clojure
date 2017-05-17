@@ -1,4 +1,4 @@
- (ns codewars-katas-clojure.even-odd-kata)
+(ns codewars-katas-clojure.even-odd-kata)
 
 (defn even-or-odd [number]
   (if (even? number)
