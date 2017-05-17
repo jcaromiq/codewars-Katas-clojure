@@ -1,4 +1,8 @@
 # codewars-katas-clojure
+<p align="left">
+	<a target="_blank" href="https://travis-ci.org/jcaromiq/codewars-Katas-clojure"><img src="https://travis-ci.org/jcaromiq/codewars-katas-clojure.svg?branch=master"></a>
+</p>
+
 
 ## Usage
 
